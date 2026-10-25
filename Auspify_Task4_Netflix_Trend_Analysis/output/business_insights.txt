@@ -1,0 +1,12 @@
+AUSPIFY TASK 4: BUSINESS INSIGHTS
+
+Peak release year in the dataset: 2018.0
+Titles in peak year: 1146.0
+Latest release year represented: 2021
+Titles in latest year: 592
+
+The analysis counts titles by their release year.
+The charts compare yearly content patterns and Movie versus TV Show releases.
+
+Note: Release year is not the same as the date Netflix added a title to its platform.
+Recent years may be incomplete in the dataset, so interpret apparent declines cautiously.
